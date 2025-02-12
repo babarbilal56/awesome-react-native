@@ -820,6 +820,9 @@ Components and native modules.
 * [react-native-responsive-fontsize ★83](https://github.com/heyman333/react-native-responsive-fontsize) - Provide responsive fontsize based on device height in React-Native
 * [rn-pdf-reader-js ★6](https://github.com/xcarpentier/rn-pdf-reader-js/blob/master/README.md) - A PDF reader, in JavaScript only, for Expo, Android capable, PDF.JS
 * [@typeskill/typer ★4](https://github.com/typeskill/typer) - The Operational-Transform Based (React) Native Rich Text Library
+* [react-native-smooth-scroll](https://github.com/babarbilal56/react-native-smooth-scroll) - react-native-smooth-scroll is a React Native library that enhances scrolling experiences by providing smooth, frictionless, and customizable scrolling for lists and views. It improves performance and usability, ensuring seamless gestures and animations for a more native feel.
+
+
 
 ### Analytics
 
@@ -957,6 +960,8 @@ Components and native modules.
 * [binstorm ★5](https://github.com/binbytes/binstorm) - BinStorm is a React Native styling utility for rapidly building custom user interfaces. Read about it [here](https://docs-binstorm.binbytes.com/).
 * [styled-react-native](https://github.com/jsifalda/styled-react-native) - Advanced react native styling with simple method (style overwrites, component composition, enhanced style property). Full intro in [this Medium article](https://medium.com/@JSifalda/advanced-react-native-styling-with-a-few-lines-of-code-4b6a94385015).
 * [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) - A react native styling system based on TailwindCSS.
+* [react-native-responsive-dimention ](https://github.com/babarbilal56/react-native-responsive-dimention) - A utility library for creating responsive designs in React Native applications
+
 
 ### System
 
@@ -1158,6 +1163,8 @@ Components and native modules.
 * [react-native-nchan ★3](https://github.com/indatawetrust/react-native-nchan) - Nchan (pub/sub server) module for React Native
 * [react-native-blob-courier ★8](https://github.com/edeckers/react-native-blob-courier) - Efficiently download and upload blobs on native thread
 * [fetch ★10](https://github.com/react-native-community/fetch) - A fetch API polyfill for React Native with text streaming support.
+* [react-native-api-fetch](https://github.com/babarbilal56/react-native-api-fetch) - This project contains two main utilities for handling API requests in a React Native environment: `FetchComponent` and `useFetch`. Both are designed to simplify fetching data from an API, manage loading states, handle caching, and allow retrying requests.
+
 
 ### Integrations
 
